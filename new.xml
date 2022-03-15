@@ -1,0 +1,14 @@
+
+ <?xml version="1.0"?>
+
+<person>
+
+<first_name>Olga</first_name>
+<last_name>Rodionova</last_name>
+<age>35</age>
+<number_of_pets>1</number_of_pets>
+<future_desired_salary>50 thousand roubles</future_desired_salary>
+
+</person> 
+
+
